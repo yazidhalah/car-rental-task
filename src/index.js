@@ -8,8 +8,8 @@ root.render(
 
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<App />}></Route>
-      <Route path="types" element={<AppT />} />
+      <Route path="car-rental-task" element={<App />}></Route>
+      <Route path="car-rental-task/types" element={<AppT />} />
     </Routes>
   </BrowserRouter>
 

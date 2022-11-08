@@ -14,10 +14,10 @@ const Header = () => {
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               
                         <li className="me-5 pl-3">
-                            <a href="/" className="btn btn-info h-100" >Orders</a>
+                            <a href="/car-rental-task" className="btn btn-info h-100" >Orders</a>
                         </li>
                         <li className="me-5 pl-3">
-                            <a href="/types" className="btn btn-info h-100" to={"/types"}>Types</a>
+                            <a href="/car-rental-task/types" className="btn btn-info h-100">Types</a>
                         </li>
                     </ul>
                 </div>
